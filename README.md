@@ -42,7 +42,7 @@ bash
 Copy
 Edit
 # Clone this repo
-git clone https://github.com/yourname/buginsight.git
+git clone https://github.com/ariefprasetyo939/nestjs-buginsight.git
 cd buginsight
 
 # Install dependencies
@@ -56,7 +56,6 @@ Requires PostgreSQL & Redis running locally
 
 📦 Deployment
 Use Docker Compose (coming soon)
-
 Compatible with Kubernetes, Fly.io, or Render
 
 🧪 Status
