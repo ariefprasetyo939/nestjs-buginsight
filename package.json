@@ -1,13 +1,23 @@
 {
   "name": "buginsight",
   "version": "1.0.0",
-  "description": "",
+  "description": "BugInsight is a smart, scalable issue & error tracking platform built with NestJS Microservices, designed for developers and teams to efficiently manage bugs, logs, and notifications in real-time.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "buginsight",
+    "nestjs",
+    "prisma",
+    "microservices",
+    "redis",
+    "queue",
+    "event-driven",
+    "docker",
+    "docker-compose"
+  ],
+  "author": "Arief Budi Prasetyo",
   "license": "ISC",
   "type": "commonjs",
   "devDependencies": {
