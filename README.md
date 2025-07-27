@@ -20,9 +20,6 @@ Docker & Docker Compose
 (Optional) gRPC & WebSocket Gateway
 
 📁 Project Structure (Monorepo)
-bash
-Copy
-Edit
 buginsight/
 ├── apps/
 │   ├── api-gateway/
@@ -38,9 +35,6 @@ buginsight/
 └── docker-compose.yml
 
 🚀 Getting Started
-bash
-Copy
-Edit
 # Clone this repo
 git clone https://github.com/ariefprasetyo939/nestjs-buginsight.git
 cd buginsight
@@ -62,10 +56,10 @@ Compatible with Kubernetes, Fly.io, or Render
 🟡 In development — currently working on:
 
  Monorepo setup
- Auth Service (register, login, JWT)
- Issue Service (CRUD + events)
- Notification Service (event listener + email)
- Docker & CI/CD setup
+Auth Service (register, login, JWT)
+Issue Service (CRUD + events)
+Notification Service (event listener + email)
+Docker & CI/CD setup
 
 🙌 Contribution
 Feel free to fork, improve, and contribute via PRs. BugInsight is made for learning and building real-world backend architecture.
